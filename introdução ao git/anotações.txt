@@ -1,0 +1,5 @@
+link para dowlouad do git
+
+https://git-scm.com/about
+
+O Git permite e incentiva você a ter várias ramificações locais que podem ser totalmente independentes umas das outras. A criação, mesclagem e exclusão dessas linhas de desenvolvimento leva segundos.
